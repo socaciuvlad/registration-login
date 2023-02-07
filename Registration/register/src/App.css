@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+}
+
+form {
+  width: 20rem;
+  display: flex;
+  flex-direction: column;
+}
+
+.form-group {
+  position: relative;
+}
+
+label {
+  position: relative;
+  left: 8rem;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+p {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
